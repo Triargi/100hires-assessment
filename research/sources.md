@@ -9,7 +9,7 @@
 ## Expert #1: Ty Heath
 - **Role:** Global Director, Thought Leadership GTM Strategy @ LinkedIn
 - **LinkedIn:** https://www.linkedin.com/in/tyronaheath/
-- **YouTube:** https://www.youtube.com/playlist?list=PLOiWp3quz2WU_cs29mzInRcHLjxRMLDEC (The B2B Institute)
+- **YouTube/Podcast:** https://www.youtube.com/watch?v=_-vSXF8z-v0&t=1622s (podcast)
 - **Why credible:** Co-founder of The B2B Institute (LinkedIn's think tank). Her research on B2B marketing is industry-standard. She literally works at LinkedIn and publishes data-driven insights.
 - **Key focus:** Brand building, B2B marketing science, long-term vs short-term, GTM strategy.
 
