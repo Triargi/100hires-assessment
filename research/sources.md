@@ -72,6 +72,6 @@
 ## Expert #10: Wensy Antoli
 - **Role:** Creative Strategy Lead @ LinkedIn, founder of Creative Labs
 - **LinkedIn:** https://www.linkedin.com/in/wensyantoli/
-- **YouTube:** Appears on LinkedIn Creator Hub
+- **YouTube/Podcast:** https://www.youtube.com/watch?v=0s5GCP4C2TE (podcast)
 - **Why credible:** Bridges creativity and strategy for B2B results. Works inside LinkedIn's own creative team.
 - **Key focus:** B2B creativity, effective content formats, campaign strategy.
