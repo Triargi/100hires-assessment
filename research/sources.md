@@ -36,7 +36,7 @@
 
 ## Expert #5: Rob Illidge
 - **Role:** Founder & CEO of Vulse (B2B marketing platform)
-- **LinkedIn:** https://www.linkedin.com/in/robillidge/
+- **LinkedIn:** https://www.linkedin.com/in/rob-illidge-employee-advocacy-b2b-ceo/
 - **YouTube/Podcast:** https://www.youtube.com/watch?v=4-peuQ5k3lA (podcast)
 - **Why credible:** Founder perspective on creating authentic LinkedIn content at scale. Practical advice for SaaS companies.
 - **Key focus:** Executive branding, thought leadership, content scalability.
